@@ -1,0 +1,22 @@
+h1{
+    color: #A4A400;
+    background-color: #F0F0F0;
+}
+body {
+    font-family: sans-serif;
+    font-size: 11pt;
+}
+p.comment {
+    background-color: #ffffa8;
+    font-style: italic;
+}
+p#copy{
+    text-align: right;
+}
+p#link {
+    color: #e5d565;
+    text-decoration: underline;
+}
+div.copyright{
+    width: max-content;
+}
