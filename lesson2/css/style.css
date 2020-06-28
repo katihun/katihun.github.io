@@ -1,3 +1,18 @@
-body {
+h1, h3{
+    color: #9dc1fa;
+}
+span {
+    color: yellow;
+}
+#cont {
     background-color: #595647;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+}
+body {
+    color: white;
+}
+.spn {
+    color:#c7575e;
 }
