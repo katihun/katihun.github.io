@@ -5,18 +5,19 @@ h1{
 body {
     font-family: sans-serif;
     font-size: 11pt;
+    background-image:url("../image/silverware.jpg");
 }
-p.comment {
+.comment {
     background-color: #ffffa8;
     font-style: italic;
 }
-p#copy{
+#copy{
     text-align: right;
 }
-p#link {
+#link {
     color: #e5d565;
     text-decoration: underline;
 }
-div.copyright{
+.copyright{
     width: max-content;
 }
