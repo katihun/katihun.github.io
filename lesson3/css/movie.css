@@ -1,5 +1,5 @@
 body{
-    background-image: url(image/background.png);
+    background-image: url(../image/background.png);
     margin: 0px;
 	padding: 0px;
 	font-size: 8pt;
@@ -16,7 +16,7 @@ body{
 }
 
 #banner{
-    background-image: url(image/banner.png);
+    background-image: url(../image/banner.png);
     background-repeat: repeat-x;
     text-align: center;
 	margin-left: auto;
@@ -31,7 +31,7 @@ body{
 	text-shadow: 3px 3px #999999;
 }
 #score{
-    background-image: url(image/rbg.png);
+    background-image: url(../image/rbg.png);
     height: 83px;
 	font-size: 48pt;
 	font-weight: bold;
