@@ -1,56 +1,66 @@
-*{
-    box-sizing: border-box;
+body{
+    padding: 0;
+    margin: 0;
 }
-
-#header{
+#h {
     background-color: #add8e6;
     text-align: center;
-    height: 50px;
-    font-size: 20px;
-    padding-top: 10px;
-    width: 100%;
+    padding: 10px;
 }
-#n{
-    height: 50px;
-    background-color:#2f4f4f;
-}
-.m{
-    float: left;
-    color: white;
-    text-align: center;
-    width: 150px;
-    padding-top: 10px;
-}
-#c{
-    height: 200px;
 
-}
-#c1{
-    height: 200px;
-    width: 33%;
-    padding-left: 5px;
-    float: left;
-    background-color: gray;
-}
-#c2{
-    width: 33%;
-    height: 200px;
-    padding-left: 5px;
-    float: left;
-    background-color: rgb(180, 179, 179);
-}
-#c3{
-    width:33%;
-    height: 200px;
-    padding-left: 5px;
-    float: left;
-    background-color: rgb(243, 237, 237);
-}
-#footer{
-    width: 100%;
+#f {
+    clear: left;
     background-color: #2f4f4f;
-    text-align: center;
     color: white;
-    height: 50px;
-    font-size: 20px;
+    text-align: center;
+    padding: 10px;
+}
+
+.menu {
+    background-color: #2f4f4f;
+    color: white;
+    padding-left: 5px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+li {
+    display: inline;
+    padding: 5px;
+}
+.column{
+    padding: 0px;
+    margin: 0px;
+}
+#p1 {
+    background-color: #aaaaaa;
+    float: left;
+    padding: 5px;
+    margin: 0;
+    width: 32.5%;
+    height: 100px;
+}
+
+#p2 {
+    background-color: #bbbbbb;
+    float: left;
+    padding: 5px;
+    margin: 0;
+    width: 32.5%;
+    height: 100px;
+}
+
+#p3 {
+    background-color: #cccccc;
+    float: left;
+    padding: 5px;
+    margin: 0;
+    width: 32.5%;
+    height: 100px;
 }
