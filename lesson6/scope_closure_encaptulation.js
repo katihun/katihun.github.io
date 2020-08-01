@@ -17,13 +17,13 @@ return allowedStr.join(" ");
 //	Execution
 let allowed=filter("The beautiful ones are not yet born!",'not');
 console.log(allowed); 
-// Output: I do like politics!
+// Output: The beautiful ones are not yet born!!
 
 
 //	Execution
 const str='The beautiful ones are not yet born. not any time!';
 console.log(filterBannedWord(str,'not'));
-// 	Output: I am going to nightclub. always!
+// 	Output: The beautiful ones are not yet born!!
 
 
 
