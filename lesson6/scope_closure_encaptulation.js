@@ -66,9 +66,8 @@ function Teacher(fname,lname)
 
 }
 
-var teacher=new Teacher('John','Doe');
-//document.getElementById("demo5").innerHTML=teacher.teach('Database');
-console.log(teacher.teach('Database'));
+var teacher=new Teacher('Kassa','Ayele');
+console.log(teacher.teach('WAP'));
 
 // Output: John is now teaching Database
 
