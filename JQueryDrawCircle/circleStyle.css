@@ -1,3 +1,10 @@
 #canvas{
-    border: solid 1px black;
+    border: solid 1px gray;
+}
+input{
+    width:50px;
+}
+label{
+    width: 200px;
+    display: inline-block;
 }
