@@ -3,6 +3,7 @@
 }
 input{
     width:50px;
+    border-radius: 1px;
 }
 label{
     width: 200px;
