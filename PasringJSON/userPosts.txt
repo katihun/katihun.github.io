@@ -8,7 +8,17 @@ suite is: Apt. 556
 city is: Gwenborough
 zip Code is: 92998-3874
 
-Below is used to parse data
+Response from http://jsonplaceholder.typicode.com/users/2
+name is: Ervin Howell
+username is: Antonette
+email is: Shanna@melissa.tv
+street is: Victor Plains
+Suite 879
+city is: Wisokyburgh
+zip Code is: 90566-7771
+
+
+Below is the code used to parse data
 
 $.ajax('http://jsonplaceholder.typicode.com/users/1')
 .done(response => {
